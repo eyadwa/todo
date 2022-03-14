@@ -1,4 +1,4 @@
-class TodoItem {
+git class TodoItem {
   String todo;
   String imageUrl;
   DateTime createdAt;

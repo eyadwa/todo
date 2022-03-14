@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556380406835",
+    "firebase_url": "https://storify-50031.firebaseio.com",
+    "project_id": "storify",
+    "storage_bucket": "storify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556380406835:android:66b9c98d9ee86ba014cf46",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556380406835-q7qj60628rr21vaeroo775tak7l78253.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todoapp",
+            "certificate_hash": "f6b8aa9b17f7710b01ce0141b3c799002c5c4bb9"
+          }
+        },
+        {
+          "client_id": "556380406835-clssmidddoq6b63cnmahhlijt780ak1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-JMe6Ddfeyi201RLPcwmTpycvgnm-H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556380406835-clssmidddoq6b63cnmahhlijt780ak1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
